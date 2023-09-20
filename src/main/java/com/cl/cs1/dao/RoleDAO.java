@@ -1,4 +1,4 @@
-package com.hcl.cs1.dao;
+package com.cl.cs1.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
