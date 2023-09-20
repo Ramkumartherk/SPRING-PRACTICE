@@ -1,4 +1,4 @@
-package com.hcl.cs1;
+package com.cl.cs1;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
