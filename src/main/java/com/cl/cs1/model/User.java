@@ -1,4 +1,4 @@
-package com.hcl.cs1.model;
+package com.cl.cs1.model;
 
 import java.util.Set;
 import javax.persistence.CascadeType;
