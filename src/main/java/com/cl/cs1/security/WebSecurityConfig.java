@@ -1,4 +1,4 @@
-package com.hcl.cs1.security;
+package com.cl.cs1.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
