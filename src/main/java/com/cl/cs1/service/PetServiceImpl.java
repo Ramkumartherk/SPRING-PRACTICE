@@ -6,10 +6,10 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.hcl.cs1.dao.PetDAO;
-import com.hcl.cs1.dao.personalpetDAO;
-import com.hcl.cs1.model.Pet;
-import com.hcl.cs1.model.personalpets;
+import com.cl.cs1.dao.PetDAO;
+import com.cl.cs1.dao.personalpetDAO;
+import com.cl.cs1.model.Pet;
+import com.cl.cs1.model.personalpets;
 
 @Service
 public class PetServiceImpl implements PetService {
