@@ -2,8 +2,8 @@ package com.cl.cs1.service;
 
 import java.util.List; 
 
-import com.hcl.cs1.model.Pet;
-import com.hcl.cs1.model.personalpets;
+import com.cl.cs1.model.Pet;
+import com.cl.cs1.model.personalpets;
 
 public interface PetService {
 
