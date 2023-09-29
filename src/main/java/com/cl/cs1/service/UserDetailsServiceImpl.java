@@ -12,10 +12,10 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.hcl.cs1.controller.UserController;
-import com.hcl.cs1.dao.UserDAO;
-import com.hcl.cs1.model.Role;
-import com.hcl.cs1.model.User;
+import com.cl.cs1.controller.UserController;
+import com.cl.cs1.dao.UserDAO;
+import com.cl.cs1.model.Role;
+import com.cl.cs1.model.User;
 
 
 @Service
