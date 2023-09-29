@@ -17,15 +17,15 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.hcl.cs1.model.personalpets;
-import com.hcl.cs1.dao.UserDAO;
-import com.hcl.cs1.service.UserServiceImpl;
-import com.hcl.cs1.model.Pet;
-import com.hcl.cs1.model.Role;
-import com.hcl.cs1.model.User;
-import com.hcl.cs1.service.PetService;
-import com.hcl.cs1.service.UserService;
-import com.hcl.cs1.validator.UserValidator;
+import com.cl.cs1.model.personalpets;
+import com.cl.cs1.dao.UserDAO;
+import com.cl.cs1.service.UserServiceImpl;
+import com.cl.cs1.model.Pet;
+import com.cl.cs1.model.Role;
+import com.cl.cs1.model.User;
+import com.cl.cs1.service.PetService;
+import com.cl.cs1.service.UserService;
+import com.cl.cs1.validator.UserValidator;
 
 @Controller
 public class UserController {
