@@ -1,6 +1,6 @@
 package com.cl.cs1.service;
 
-import com.hcl.cs1.model.User;
+import com.cl.cs1.model.User;
 
 public interface UserService {
     void save(User user);
